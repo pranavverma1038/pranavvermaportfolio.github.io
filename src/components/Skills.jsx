@@ -76,7 +76,7 @@ const Skills = () => {
             </div>
             <div className="flex items-center">
               <span className="text-accent mr-2">▹</span>
-              <span>Google Developer – App Development Program</span>
+              <span>Selected for Google Developer App Development Program</span>
             </div>
           </div>
         </motion.div>
